@@ -1,3 +1,3 @@
 # Social and Contanct webpage
 
-Dynamic color change webpage with social media icons.
+Dynamic background color change webpage with social media icons.
